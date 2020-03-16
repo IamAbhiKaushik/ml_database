@@ -1,0 +1,2 @@
+There will be two data files `full_test.txt` and `full_train.txt` for testing and training the model.
+This data will be used to predict sentiment of a review given to a specific movie.
